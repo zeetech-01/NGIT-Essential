@@ -28,3 +28,10 @@ Inside index.html, I typed a simple HTML page:
 <html>, <head>, and <body> set up the structure of the webpage.
 <title> gives the page a title that shows in the browser tab.
 <h1>Hello, NGIT!</h1> shows a big heading on the page so I can see it works.
+
+Task 4: Internet & Web Observation
+- I opened my web browser and visited google.com.
+- The domain name of the website is 'google.com'.
+- I noticed that the website uses HTTPS, which means it is secure and any information sent or received is protected.
+- When I pressed Enter, my computer sent a request to the website’s server. The server then sent back the files for the webpage, and my browser displayed the page so I could see it. 
+- This shows how computers, the internet, and browsers work together to show websites.
