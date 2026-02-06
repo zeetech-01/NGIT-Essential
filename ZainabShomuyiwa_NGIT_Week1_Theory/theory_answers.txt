@@ -19,17 +19,15 @@ Windows and Linux are both operating systems, but they’re a bit different:
 
 5. What is the command line and why is it important?
 The command line is a way to tell your computer what to do by typing commands instead of clicking. It’s important for developers because it’s fast, powerful, and often needed for coding, file management, and running programs.
-                                                                                                                                                                                                    6. Internet terms:
+                                                                                                                                                    6. Internet terms:
 -Server: A computer that stores and sends data to other computers.
 -Browser: A program like Chrome or Firefox that lets you visit websites.
 -IP Address: A unique number that identifies a computer on the internet.
 -DNS: A system that translates website names (like google.com) into IP addresses.
 -HTTP & HTTPS: Both let your browser communicate with websites. HTTPS is secure, meaning the data is encrypted.
 
-7. Client–Server Model
-The client–server model is like ordering at a restaurant:
--Client: You, the customer, asking for something (like your computer requesting a website).
--Server: The kitchen, which prepares what you asked for and sends it back.
+7 Client–Server Model
+The client–server model describes how computers communicate over a network. The client is a device or application (such as a web browser) that sends a request for information or a service. The server is a system that receives the request, processes it, and sends the requested data back to the client.
 
 8. Frontend vs Backend Development
 -Frontend: This is what people see and interact with on a website — the design, buttons, text, images, and colors.
