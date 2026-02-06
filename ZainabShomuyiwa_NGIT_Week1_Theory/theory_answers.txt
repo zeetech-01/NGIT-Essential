@@ -18,3 +18,9 @@ Windows and Linux are both operating systems, but they’re a bit different:
 
 5. What is the command line and why is it important?
 The command line is a way to tell your computer what to do by typing commands instead of clicking. It’s important for developers because it’s fast, powerful, and often needed for coding, file management, and running programs.
+                                                                                                                                                  6. Internet terms:
+-Server: A computer that stores and sends data to other computers.
+-Browser: A program like Chrome or Firefox that lets you visit websites.
+-IP Address: A unique number that identifies a computer on the internet.
+-DNS: A system that translates website names (like google.com) into IP addresses.
+-HTTP & HTTPS: Both let your browser communicate with websites. HTTPS is secure, meaning the data is encrypted.
