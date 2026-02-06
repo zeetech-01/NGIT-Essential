@@ -39,3 +39,9 @@ The client–server model is like ordering at a restaurant:
 -Website: A collection of pages people can visit online.
 -Domain: The website’s address, like google.com.
 -Hosting: The space on a server where the website lives so people can access it online.
+
+10. Browser Rendering Process
+When you type a website in your browser:
+-Your browser asks the server for the website files.
+-It downloads the HTML, CSS, and JavaScript.
+-The browser interprets the code and displays the page on your screen.
