@@ -3,3 +3,15 @@ Task 1: File Management
 - Inside web_basics, created three subfolders: notes, projects, images.
 - Inside notes folder, created file week1.txt and wrote Week 1 summary.
 
+Task 2: commandline practice.                                                                                                                         1. cd Desktop\web_basics
+   - Command to go into the 'web_basics' folder on my Desktop.
+2. mkdir cli_practice
+   - Creates a new folder named 'cli_practice' inside 'web_basics'.
+3. cd cli_practice
+   - Moves into the 'cli_practice' folder so I can work inside it.
+4. type nul > test.txt
+   - Creates a new blank file named 'test.txt' in the folder.
+5. ren test.txt myfile.txt
+   - Renames the file from 'test.txt' to 'myfile.txt'.
+6. dir
+   - Lists all the files and folders in the current directory so I can see that 'myfile.txt' exists.
