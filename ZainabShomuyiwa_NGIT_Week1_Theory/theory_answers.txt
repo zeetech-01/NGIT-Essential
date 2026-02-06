@@ -1,1 +1,6 @@
-Week 1 NGIT Theory Answers
+1. A computer is an electronic device that accepts data as input, processes it according to instructions, stores it, and produces output.
+
+Hardware refers to the physical parts of a computer that can be seen and touched, such as the keyboard, monitor, CPU, and mouse.
+
+Software refers to the programs and applications that tell the computer what to do, such as Windows, Microsoft Word, web browsers, and antivirus software.
+
