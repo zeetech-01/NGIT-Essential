@@ -1,11 +1,14 @@
 1. A computer is an electronic device that accepts data as input, processes it according to instructions, stores it, and produces output.
 
-Hardware refers to the physical parts of a computer that can be seen and touched, such as the keyboard, monitor, CPU, and mouse.
-
-Software refers to the programs and applications that tell the computer what to do, such as Windows, Microsoft Word, web browsers, and antivirus software.
+-Hardware refers to the physical parts of a computer that can be seen and touched, such as the keyboard, monitor, CPU, and mouse.
+-Software refers to the programs and applications that tell the computer what to do, such as Windows, Microsoft Word, web browsers, and antivirus software.
 
 2. An operating system is system software that manages the computer’s hardware and software resources and provides services for computer programs.
-
 Two primary functions of an operating system are:
 - Managing hardware resources such as memory, processor, and storage.
-- Providing an interface that allows users to interact with the computer.
+- Providing an interface that allows users to interact with the computer.                                                                                    
+3. Differences between Windows and Linux
+Windows and Linux are both operating systems, but they’re a bit different:
+- Interface: Windows is easier to use because of its visuals. Linux sometimes needs commands typed in, especially for advanced stuff.
+- Software: Windows runs most commercial programs and games. Linux mostly uses free, open-source software.
+- Security: Linux is usually safer from viruses, partly because fewer people use it and its permissions system is stricter.
