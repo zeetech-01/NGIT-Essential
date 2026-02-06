@@ -4,3 +4,8 @@ Hardware refers to the physical parts of a computer that can be seen and touched
 
 Software refers to the programs and applications that tell the computer what to do, such as Windows, Microsoft Word, web browsers, and antivirus software.
 
+2. An operating system is system software that manages the computer’s hardware and software resources and provides services for computer programs.
+
+Two primary functions of an operating system are:
+- Managing hardware resources such as memory, processor, and storage.
+- Providing an interface that allows users to interact with the computer.
