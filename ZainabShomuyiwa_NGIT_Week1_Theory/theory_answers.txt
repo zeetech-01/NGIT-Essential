@@ -15,3 +15,6 @@ Windows and Linux are both operating systems, but they’re a bit different:
 -File: A file is something that stores information, like a document, image, or video.
 -Folder (Directory): A folder is a container for files or other folders, helping you stay organized.
 -File Extension: The letters after a file name, like .txt or .jpg, tell the computer what type of file it is.
+
+5. What is the command line and why is it important?
+The command line is a way to tell your computer what to do by typing commands instead of clicking. It’s important for developers because it’s fast, powerful, and often needed for coding, file management, and running programs.
