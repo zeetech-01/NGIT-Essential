@@ -15,3 +15,16 @@ Task 2: commandline practice.                                                   
    - Renames the file from 'test.txt' to 'myfile.txt'.
 6. dir
    - Lists all the files and folders in the current directory so I can see that 'myfile.txt' exists.
+                                                                                                                                                 Task 3: VS Code Setup (Human Explanation)
+Step 1: Open VS Code
+I opened Visual Studio Code on my computer. It’s a program that lets you write code in an organized way and see your files clearly.
+Step 2: Open my project folder
+Inside VS Code, I opened the folder called web_basics that I created earlier. This way, all my files and subfolders are in one place and easy to manage.
+Step 3: Create a new file in the projects folder
+I went into the projects folder and created a new file called index.html. This file will be the first webpage I’m making.
+Step 4: Write my first HTML code
+Inside index.html, I typed a simple HTML page:
+<!DOCTYPE html> tells the browser it’s an HTML document.
+<html>, <head>, and <body> set up the structure of the webpage.
+<title> gives the page a title that shows in the browser tab.
+<h1>Hello, NGIT!</h1> shows a big heading on the page so I can see it works.
