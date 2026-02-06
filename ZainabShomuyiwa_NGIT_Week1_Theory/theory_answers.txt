@@ -11,4 +11,7 @@ Two primary functions of an operating system are:
 Windows and Linux are both operating systems, but they’re a bit different:
 - Interface: Windows is easier to use because of its visuals. Linux sometimes needs commands typed in, especially for advanced stuff.
 - Software: Windows runs most commercial programs and games. Linux mostly uses free, open-source software.
-- Security: Linux is usually safer from viruses, partly because fewer people use it and its permissions system is stricter.
+- Security: Linux is usually safer from viruses, partly because fewer people use it and its permissions system is stricter.                                                                                                                                                                             4. Explain these terms: File, Folder, File Extension
+-File: A file is something that stores information, like a document, image, or video.
+-Folder (Directory): A folder is a container for files or other folders, helping you stay organized.
+-File Extension: The letters after a file name, like .txt or .jpg, tell the computer what type of file it is.
