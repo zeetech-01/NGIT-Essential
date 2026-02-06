@@ -1,1 +1,4 @@
-Week 1 NGIT Self Reflection
+Week 1 Self-Reflection
+
+This week, I learned the basics of how computers work, including the difference between hardware and software. I also learned about the internet, including what HTTP and HTTPS mean, and how information moves between computers and servers. Using GitHub showed me how to organize files and keep track of changes, which is really helpful for managing projects. Learning the command line was interesting because it taught me how to control my computer using simple text commands instead of just a mouse. I also got to create folders, files, and even my first simple webpage in VS Code, which made me feel more confident about coding. Overall, Week 1 gave me a clear foundation in the tools and concepts that web developers use every day, and I’m excited to keep learning more.
+
