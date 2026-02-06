@@ -1,1 +1,5 @@
-Week 1 NGIT Practical Tasks
+Task 1: File Management
+- Created main folder called web_basics on Desktop.
+- Inside web_basics, created three subfolders: notes, projects, images.
+- Inside notes folder, created file week1.txt and wrote Week 1 summary.
+
